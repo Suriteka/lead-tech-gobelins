@@ -7,4 +7,4 @@ deploy:
   api_key: "d3f1b86a-f920-4229-a973-8a44eb327564"
   app:
     master: xxx-production
-    production: xxx-staging
+    develop: xxx-staging
