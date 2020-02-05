@@ -1,3 +1,10 @@
 language: node_js
 node_js: 
   - "8.6.0"
+
+deploy:
+  provider: heroku
+  api_key: "d3f1b86a-f920-4229-a973-8a44eb327564"
+  app:
+    master: xxx-production
+    develop: xxx-staging
