@@ -8,3 +8,4 @@ deploy:
   app:
     master: xxx-production
     develop: xxx-staging
+  skip_cleanup: true
